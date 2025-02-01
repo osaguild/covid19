@@ -72,3 +72,36 @@ timestamp,url,exists,status
 2022-03-01T09:18:27+09:00,https://covid19-kagawa.jp/,False,[Errno -2] Name or service not known
 2022-03-01T09:18:28+09:00,https://covid19-kochi.netlify.app/,False,404
 2022-03-01T09:18:32+09:00,https://stopcovid19.code4saga.org/,False,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1131)
+2025-02-01T09:27:42+09:00,https://stopcovid19.metro.tokyo.lg.jp/,False,[Errno -3] Temporary failure in name resolution
+2025-02-01T09:27:44+09:00,https://stopcovid19.pref.aomori.lg.jp/,False,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stopcovid19.pref.aomori.lg.jp'. (_ssl.c:1131)"
+2025-02-01T09:29:58+09:00,https://covid19.codeforaomori.org/,False,[Errno 110] Connection timed out
+2025-02-01T09:29:58+09:00,https://covid19-daily-tohoku.news/,False,[Errno -2] Name or service not known
+2025-02-01T09:29:59+09:00,https://fukushima-covid19.firebaseapp.com/,False,404
+2025-02-01T09:30:00+09:00,https://stopcovid19-ibaraki.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:30:00+09:00,https://covid19-tochigi.netlify.com/,False,404
+2025-02-01T09:30:00+09:00,https://stopcovid19.pref.gunma.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:30:02+09:00,https://covid19.civictech.chiba.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:30:02+09:00,https://yachiyo-covid19.netlify.app/,False,404
+2025-02-01T09:30:04+09:00,https://www.pref.kanagawa.jp/osirase/1369/,False,403
+2025-02-01T09:30:04+09:00,https://covid19.yokohama/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:19+09:00,https://niigata.stopcovid19.jp/,False,[Errno 104] Connection reset by peer
+2025-02-01T09:39:20+09:00,https://stopcovid19.pref.ishikawa.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:20+09:00,https://ishikawa-covid19.netlify.app/,False,404
+2025-02-01T09:39:22+09:00,https://stopcovid19.city.shizuoka.lg.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:23+09:00,https://mie.stopcovid19.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:24+09:00,https://stopcovid19.pref.shiga.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:24+09:00,https://kyoto.stopcovid19.jp/,False,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kyoto.stopcovid19.jp'. (_ssl.c:1131)"
+2025-02-01T09:39:25+09:00,https://covid19-osaka.info/,False,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1131)
+2025-02-01T09:39:27+09:00,https://stopcovid19.wakayama.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:29+09:00,https://hiroshima.stopcovid19.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:29+09:00,https://stopcovid19-hiroshima-city.hiroshima-cu.ac.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:31+09:00,https://covid19-yamaguchi.netlify.app/,False,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'yamaguchi.stopcovid19.jp'. (_ssl.c:1131)"
+2025-02-01T09:39:31+09:00,https://kagawa.stopcovid19.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:31+09:00,https://covid19-kagawa.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:39:31+09:00,https://covid19-kochi.netlify.app/,False,404
+2025-02-01T09:41:46+09:00,https://fukuoka.stopcovid19.jp/,False,[Errno 110] Connection timed out
+2025-02-01T09:44:02+09:00,https://stopcovid19.codeforfukuoka.org/,False,[Errno 110] Connection timed out
+2025-02-01T09:44:02+09:00,https://stopcovid19-kitakyushu.jp/,False,[Errno -2] Name or service not known
+2025-02-01T09:46:17+09:00,https://stopcovid19.code4saga.org/,False,[Errno 110] Connection timed out
+2025-02-01T09:46:17+09:00,https://oita.stopcovid19.jp/,False,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'oita.stopcovid19.jp'. (_ssl.c:1131)"
+2025-02-01T09:46:19+09:00,https://covid19.wlaboratory.com/,False,403
